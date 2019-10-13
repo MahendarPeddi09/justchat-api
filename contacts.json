@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "user1",
+        "msg" : "latest message",
+        "timestamp" : 12433324
+    },
+    {
+        "id" : 2,
+        "name" : "user2",
+        "msg" : "latest message",
+        "timestamp" : 12433324
+    },
+    {
+        "id" : 3,
+        "name" : "user3",
+        "msg" : "latest message",
+        "timestamp" : 12433324
+    },
+    {
+        "id" : 4,
+        "name" : "user3",
+        "msg" : "latest message",
+        "timestamp" : 12433324
+    }
+]
